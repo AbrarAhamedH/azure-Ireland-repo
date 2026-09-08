@@ -1,0 +1,15 @@
+{
+	"name": "azureIrelanddatafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a7045988-82f9-40bd-8820-734214fedaa3",
+		"tenantId": "e04b2222-30ee-4f3c-a424-5a26bff44f26"
+	}
+}
